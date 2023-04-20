@@ -20,4 +20,4 @@
 #   Statistical Hypothesis
 #   Apply visualization to the Analysis and organize the Google Slides
 
-
+# Slides: https://docs.google.com/presentation/d/19rtCBiu8FyyhCP-aQ2IYQRMvTiQgMPATvsBX0TU1xnA/edit?usp=sharing
